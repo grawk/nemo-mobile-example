@@ -11,9 +11,11 @@ How to use nemo with ios-driver and selendroid
 
 2. To run the example in this repo, you'll need to change permissions on the MobileSafari.app used in the simulator. See here: http://ios-driver.github.io/ios-driver/?page=safari
 
-3. Look in index.js, and note the two hard-coded paths (for the ios-driver jar and the MobileSafari.app folder). Make sure these accurately reflect your filesystem
+3. Clone and install this repo: `$ git clone https://github.com/grawk/nemo-mobile-example.git; cd nemo-mobile-example; npm install;`
 
-4. As long as you've run `npm install` you should be able now to run the script by using `node index.js`
+4. Look in index.js, and note the two hard-coded paths (for the ios-driver jar and the MobileSafari.app folder). Make sure these accurately reflect your filesystem
+
+4. Run using `node index.js`
 
 Here is the good stuff!
 
