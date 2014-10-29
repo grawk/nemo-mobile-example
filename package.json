@@ -1,0 +1,29 @@
+{
+  "name": "nemo-mobile-example",
+  "version": "1.0.0",
+  "description": "test bed for nemo + ios-driver or selendroid",
+  "main": "index.js",
+  "dependencies": {
+    "nemo": "^0.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grawk/nemo-mobile-example.git"
+  },
+  "keywords": [
+    "nemo",
+    "ios-driver",
+    "selendroid",
+    "selenium-webdriver"
+  ],
+  "author": "@grawk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grawk/nemo-mobile-example/issues"
+  },
+  "homepage": "https://github.com/grawk/nemo-mobile-example"
+}
