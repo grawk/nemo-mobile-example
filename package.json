@@ -2,7 +2,6 @@
   "name": "nemo-mobile-example",
   "version": "1.0.0",
   "description": "test bed for nemo + ios-driver or selendroid",
-  "main": "index.js",
   "dependencies": {
     "nemo": "^0.2.6"
   },
