@@ -4,6 +4,8 @@ How to use nemo with ios-driver and selendroid
 
 ## ios-driver
 
+Please reference ios-driver docs for more information: http://ios-driver.github.io/ios-driver/
+
 ### prerequisites
 
 1. You will need to have an appropriate version of XCode, and version of the ios-driver JAR. As of this writing, I'm using:
@@ -24,6 +26,8 @@ How to use nemo with ios-driver and selendroid
 ios.js and the ios section of config.js
 
 ## selendroid
+
+Please reference selendroid docs for more information: http://selendroid.io
 
 ### prerequisites
 
